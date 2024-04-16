@@ -1,6 +1,6 @@
 # recrrer_tensorflow
 
-# Description de votre code de régression linéaire
+# Description du code de régression linéaire
 Ce code Python implémente une régression linéaire personnalisée pour la prédiction. Voici une description détaillée de chaque partie :
 
 # 1. Fonction erreur(X, y, params):
